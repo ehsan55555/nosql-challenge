@@ -3,11 +3,13 @@
 # Overview
 
 ## This repository contains code and instructions for analyzing UK food establishment data using NoSQL techniques, specifically MongoDB. 
-        The data is sourced from a real-world dataset and involves tasks such as data loading, exploration, filtering, aggregation, and visualization. The primary goal of this challenge is to demonstrate proficiency in working with NoSQL databases, Python, and data analysis using real-world data.
+        The data is sourced from a real-world dataset and involves tasks such as data loading, exploration, filtering, aggregation, and visualization. 
+        The primary goal of this challenge is to demonstrate proficiency in working with NoSQL databases, Python, and data analysis using real-world data.
 
 
 ## Repository Structure
-        starter_code: This folder contains the deliverables for the challenge.
+        
+## Starter_code: This folder contains the deliverables for the challenge.
 
 ## Deliverable_1_Starter_Code.ipynb: A Jupyter Notebook containing code that imports the data and sets up and updates the uk_food database.
 
@@ -30,5 +32,5 @@
         Sets up and updates the "uk_food" MongoDB database with the imported data.
 
 ## Deliverable 2: Exploratory Analysis Queries
-        he "Deliverable_2_Starter_Code.ipynb" notebook contains code that performs exploratory analysis queries on the "uk_food" MongoDB database. This includes tasks such as data exploration, filtering, aggregation, and visualization.
+        The "Deliverable_2_Starter_Code.ipynb" notebook contains code that performs exploratory analysis queries on the "uk_food" MongoDB database. This includes tasks such as data exploration, filtering, aggregation, and visualization.
 
