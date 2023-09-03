@@ -7,7 +7,7 @@
         The primary goal of this challenge is to demonstrate proficiency in working with NoSQL databases, Python, and data analysis using real-world data.
 
 
-## Repository Structure
+# Repository Structure
         
 ## Starter_code: This folder contains the deliverables for the challenge.
 
